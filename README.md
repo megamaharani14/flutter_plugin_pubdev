@@ -27,9 +27,9 @@ Langkah 4: Buatlah file filter_item.dart
 Tugas Praktikum:
 Void async adalah fungsi yang memiliki sifat asynchronous yang tidak membutuhkan pengembalian data apapun, digunakan untuk melakukan suatu proses secara tidak langsung.
 
-Fungsi dari anotasi @immutable adalah 
+Fungsi dari anotasi @immutable adalah digunakan untuk sebuah class yang bersifat immutable dengan semua propertinya bertipe final yang tidak dapat diubah nilainya.
 
-Fungsi dari anotasi @override adalah 
+Fungsi dari anotasi @override adalah digunakan untuk menunjukkan sebuah metode di class turunan mengganti implementasi metode yang sama pada class induk, yang akan membantu keterbaacan kode.
 
 
 Hasil:
